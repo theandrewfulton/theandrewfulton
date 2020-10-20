@@ -2,9 +2,10 @@
 
 I'm learning to code at [Coder Academy](https://coderacademy.edu.au/)
 
-My current area of intrest is photogrammetry using drones for agriculture.
+My current area of interest is photogrammetry using drones for agriculture.
 
-You can also gind me on Twitter [@theandrewfulton](https://twitter.com/theandrewfulton)
+You can also find me on Twitter [@theandrewfulton](https://twitter.com/theandrewfulton)
+
 <!--
 **theandrewfulton/theandrewfulton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
