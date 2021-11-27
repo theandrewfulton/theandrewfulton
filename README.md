@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm learning to code at [Coder Academy](https://coderacademy.edu.au/)
+[Coder Academy](https://coderacademy.edu.au/) graduate.
 
 My current area of interest is photogrammetry using drones for agriculture.
 
-You can also find me on Twitter [@theandrewfulton](https://twitter.com/theandrewfulton)
+You can also find me on [Twitter](https://twitter.com/theandrewfulton), [Medium](https://theandrewfulton.medium.com) and [LinkedIn](https://www.linkedin.com/in/andrew-fulton-a713941b0/).
 
 <!--
 **theandrewfulton/theandrewfulton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
